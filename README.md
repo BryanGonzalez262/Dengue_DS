@@ -1,11 +1,16 @@
 # Constellation Agency Data Assignment for the role of Senior Data Scientist
 #  DengAI: Predicting Disease Spread data competition
 
-
-# Data Clearning
+# Models
+models.ipynb
+* Look mostly Here!: Implements models and various data imputation techniques
+  * negative binomial
+  * ARMA 
+  * ARMA using Principle Component Features
+  
+# Data Cleaning
 dataCleaning.ipynb
-* Organzes variables, 
-* impute missing data
-  * K-Nearest Neighbors imputation more appropriate since cases cyclical over time
-  * TODO: currently imputation done within data source. Try with full features set
-* Im
+* Organizes variables, 
+
+# object-oriented models. 
+predictions.ipnyb
